@@ -10,7 +10,7 @@ on:
   #  branches: 
   #    - master
   schedule:
-    - cron: '53 1 * * 1-6'
+    - cron: '39 1 * * 1-6'
   workflow_dispatch:
 
 jobs:
